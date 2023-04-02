@@ -21,4 +21,22 @@ public class PlayerCtrl : MonoBehaviour
         var y = Input.GetAxis("Vertical");
         rb.AddForce(new Vector2(x * Force, y * Force));
     }
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Food"))
+        {
+            collision.gameObject.GetComponent<FoodCtrl>().Place();
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("Rat"))
+        {
+            Debug.Log("Ouch!!");
+        }
+    }
+
 }

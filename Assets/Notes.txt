@@ -7,3 +7,17 @@ https://www.shutterstock.com/image-vector/mouse-rat-running-animation-loop-anima
 
 https://opengameart.org/content/rodents-rat-rework
 
+
+Food
+https://opengameart.org/content/cc0-food-icons
+
+
+
+
+IDEAS
+
+Perhaps the rats get bigger (faster?) when it eats the food.
+Maybe you have multiple health monitors: Health (calls for eating veggies), Energy (calls for eating carbs) and Strength/Speed (calls for eating proteins).  Maybe strength reduces the impact of coming into contact with the Rats.  Or maybe proteins are some sort of power-up (gives you more speed, allows you to kill rats, etc.)
+
+Maybe rats can change directions... especially if food appears behind them?
+
